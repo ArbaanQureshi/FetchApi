@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     controller: _password,
                     decoration: InputDecoration(
                       prefixIcon: Icon(Icons.lock_open_outlined),
-                      hintText: 'Enter Your Password ',
+                      hintText: 'Enter Your Password',
                     ),
                   ),
                   ElevatedButton(onPressed: (){
